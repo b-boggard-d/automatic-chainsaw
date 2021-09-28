@@ -1,0 +1,134 @@
+body
+{
+    background-color: rgb(240, 236, 198);
+}
+@font-face {
+	font-family: "Adelle Cyrillic";
+	font-style: normal;
+	font-weight: 400;
+	/* Браузер сначала попробует найти шрифт локально */
+	src: local("Adelle Cyrillic"),
+		 /* Если не получилось, загрузит woff2 */
+		 url("Adelle Cyrillic.ttf") format("ttf"),
+		 /* Если браузер не поддерживает woff2, загрузит woff */
+		 url("Adelle-Cyrillic.woff") format("woff");
+  }
+.ok
+{
+    width: 800px;
+    height: 500px;
+    margin-top: 25px;
+}
+
+.okk
+{
+    width: 800px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.oaoaoa
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.oaoa
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.da
+{
+    width: 850px;
+    height: 500px;
+    margin-top: 25px;
+}
+.dad
+{
+    width: 850px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.xe
+{
+    width: 800px;
+    height: 500px;
+    margin-top: 25px;
+}
+.xexe
+{
+    width: 700px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.lisa
+{
+    width: 1000px;
+    height: 800;
+    margin-top: 25px;
+}
+.xiao
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dead
+{
+    width: 450px;
+    height: 400px;
+    margin-top: 25px;
+}
+.adepte
+{
+    width: 900px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.volk
+{
+    width: 450px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.kea
+{
+    width: 450px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.tar
+{
+    width: 450px;
+    height: 400px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.iii
+{
+    margin-left: 100px;;
+}
+.dil
+{
+    width: 775px;
+    height: 567px;
+    margin-right: 50px;
+}
+
+.h2
+{ 
+    font-family: "Adelle Cyrillic";
+}
+.text-shadow-9 
+{
+    font-family: "Adelle Cyrillic";
+    color: white;
+    text-shadow: 1px 1px #e4b16e, 1px -1px #d8ad6d, -1px 1px #eec876, -1px -1px #ffd76a, 3px 3px 6px rgba(0,0,0,.5);
+}
